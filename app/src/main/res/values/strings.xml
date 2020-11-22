@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TaskKakVero</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="daftar_surah">Daftar Surah</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="assalamualaikum">Assalamualaikum</string>
+    <string name="subuh">Subuh</string>
+    <string name="zuhur">Zuhur</string>
+    <string name="ashar">Ashar</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isya">Isya</string>
+    <string name="_05_30_am">05:30 AM</string>
+</resources>
